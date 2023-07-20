@@ -1,3 +1,4 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "secretNameKEY": "jump-base-pem-ssh-key-1160-30-sec-sd"
 }
